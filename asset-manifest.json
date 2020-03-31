@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eduardo-l-r.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/eduardo-l-r.github.io/static/js/main.f80b3272.chunk.js",
+    "main.js.map": "/eduardo-l-r.github.io/static/js/main.f80b3272.chunk.js.map",
+    "runtime-main.js": "/eduardo-l-r.github.io/static/js/runtime-main.92e72854.js",
+    "runtime-main.js.map": "/eduardo-l-r.github.io/static/js/runtime-main.92e72854.js.map",
+    "static/css/2.de424728.chunk.css": "/eduardo-l-r.github.io/static/css/2.de424728.chunk.css",
+    "static/js/2.2669d6f3.chunk.js": "/eduardo-l-r.github.io/static/js/2.2669d6f3.chunk.js",
+    "static/js/2.2669d6f3.chunk.js.map": "/eduardo-l-r.github.io/static/js/2.2669d6f3.chunk.js.map",
+    "index.html": "/eduardo-l-r.github.io/index.html",
+    "precache-manifest.1dc29d88676eb78511da41851f43b047.js": "/eduardo-l-r.github.io/precache-manifest.1dc29d88676eb78511da41851f43b047.js",
+    "service-worker.js": "/eduardo-l-r.github.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/eduardo-l-r.github.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/eduardo-l-r.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2669d6f3.chunk.js.LICENSE.txt": "/eduardo-l-r.github.io/static/js/2.2669d6f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e72854.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.2669d6f3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f80b3272.chunk.js"
+  ]
+}

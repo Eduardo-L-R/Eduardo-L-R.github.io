@@ -9,7 +9,7 @@ function App() {
     return(
       <section className="seccion">
         <Container />
-        <p>hola<p>
+        <p>hola2</p>
       </section>
     )
 }

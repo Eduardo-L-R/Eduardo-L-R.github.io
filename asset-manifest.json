@@ -1,31 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.f905ef15.chunk.css",
-    "main.js": "/static/js/main.d60ec239.chunk.js",
-    "main.js.map": "/static/js/main.d60ec239.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9285d239.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9285d239.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.4d1158f1.chunk.js": "/static/js/2.4d1158f1.chunk.js",
-    "static/js/2.4d1158f1.chunk.js.map": "/static/js/2.4d1158f1.chunk.js.map",
+    "main.js": "/static/js/main.8fd3c08d.chunk.js",
+    "main.js.map": "/static/js/main.8fd3c08d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9739d2f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9739d2f0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e2dfc167.chunk.js": "/static/js/2.e2dfc167.chunk.js",
+    "static/js/2.e2dfc167.chunk.js.map": "/static/js/2.e2dfc167.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e4a0170d9d52b1402cab454c0e066fcc.js": "/precache-manifest.e4a0170d9d52b1402cab454c0e066fcc.js",
+    "precache-manifest.b5730816e7bae191353017afa72b1835.js": "/precache-manifest.b5730816e7bae191353017afa72b1835.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.f905ef15.chunk.css.map": "/static/css/main.f905ef15.chunk.css.map",
-    "static/js/2.4d1158f1.chunk.js.LICENSE.txt": "/static/js/2.4d1158f1.chunk.js.LICENSE.txt",
-    "static/media/Desarrollador-Web-en-2018.png": "/static/media/Desarrollador-Web-en-2018.c7ea72ba.png",
-    "static/media/Diagrama-Back-End.png": "/static/media/Diagrama-Back-End.362a77ba.png",
-    "static/media/Diagrama-DevOps.jpg": "/static/media/Diagrama-DevOps.270017a5.jpg",
-    "static/media/Diagrama-Front-End.png": "/static/media/Diagrama-Front-End.dfb2b20a.png",
-    "static/media/banner.png": "/static/media/banner.8a039beb.png",
-    "static/media/space-invader-alien.PNG": "/static/media/space-invader-alien.9c9b2445.PNG"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.e2dfc167.chunk.js.LICENSE.txt": "/static/js/2.e2dfc167.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9285d239.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.4d1158f1.chunk.js",
-    "static/css/main.f905ef15.chunk.css",
-    "static/js/main.d60ec239.chunk.js"
+    "static/js/runtime-main.9739d2f0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.e2dfc167.chunk.js",
+    "static/js/main.8fd3c08d.chunk.js"
   ]
 }

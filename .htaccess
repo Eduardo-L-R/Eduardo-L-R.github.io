@@ -18,4 +18,4 @@ RewriteRule . /index.html [L]
 
 </IfModule>
 RewriteCond %{HTTP_HOST} ^.*$
-RewriteRule ^/?$ "https\:\/\/pagina\.cl\/Inicio" [R=301,L]
+RewriteRule ^/?$ "https\:\/\/enlaces\.bearports\.com" [R=301,L]

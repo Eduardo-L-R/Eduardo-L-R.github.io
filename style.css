@@ -16,6 +16,7 @@ html {
   width: 100vw;
   height: 100vh;
   position: relative;
+  overflow: hidden;
 }
 
 .section {
@@ -35,7 +36,7 @@ html {
 }
 
 .section-1-wrapper {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
     url(images/section-1-bg.jpg) center no-repeat;
   background-size: cover;
 }
@@ -48,8 +49,56 @@ html {
 }
 
 .section-1-heading {
-  font-size: 10rem;
+  font-size: 8rem;
   font-weight: 300;
   color: #fff;
   text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  border-bottom: 0.2rem solid #d50000;
+  text-align: right;
+  user-select: none;
+}
+
+.section-2-wrapper {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
+    url(images/section-2-bg.jpg) center no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.sale {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sale-bag {
+  opacity: 0.9;
+  width: 45rem;
+}
+
+.sale-btn {
+  width: 20rem;
+  height: 5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  background-color: transparent;
+  color: #fff;
+  margin-top: 4rem;
+  border: 0.1rem solid #fff;
+  transition: background-color 0.2s;
+}
+
+.sale-btn:hover {
+  background-color: #d50000;
+}
+
+.wine-bottle {
+  opacity: 0.6;
+  width: 80rem;
 }
